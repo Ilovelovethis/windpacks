@@ -433,6 +433,7 @@ section h2 {
 
 #email {
   min-width: 460px;
+  margin-block-end: var(--spacing-m);
   padding: 0.75rem 1rem;
   border: 2px solid var(--bkg-clr);
   border-radius: var(--border-radius);
